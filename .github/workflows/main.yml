@@ -2,7 +2,7 @@ YAML
 
 name: Build C 30 Fashions APK
 
-on:
+'on':
   workflow_dispatch:
   push:
     branches: [main, master]
